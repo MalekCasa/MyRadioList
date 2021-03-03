@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1, Maroc | Atlantic Radio
+https://onlineradiobox.com/json/ma/atlantic/play?platform=web
+#http://68.168.117.130:8000/;
+https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
+http://broadcast.infomaniak.net/chadafm-high.mp3
+https://streamer.eagrpservices.com/audio/mfmradio.ogg
+#EXTINF:-1, Maroc | Cap Radio
+https://onlineradiobox.com/json/ma/cap/play?platform=web
+https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
+#EXTINF:-1, Maroc | Quran Radio
+https://onlineradiobox.com/json/ma/qurancoranstation/play?platform=web
+#EXTINF:-1, Middle East| Radio Sawa
+https://stream.radiojar.com/whbvyphna3quv
+#EXTINF:-1, Belgique | Radio Arabel FM
+http://www.arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
+http://live.medi1.com/medi1#.mp3
+http://live.medi1.com/medi3#.mp3
+#http://live.medi1.com/medi2#.mp3
+http://live.medi1.com/Classique#.mp3
+http://live.medi1.com/Acoustic#.mp3
+http://live.medi1.com/Lounge#.mp3
+http://live.medi1.com/Soufi#.mp3
+http://live.medi1.com/Nayda#.mp3
+http://live.medi1.com/Tarab#.mp3
+http://live.medi1.com/Andalouse#.mp3
+http://live.medi1.com/Latino#.mp3
+http://live.medi1.com/Tarab#.mp3
+http://live.medi1.com/Jazz#.mp3
+http://live.medi1.com/Hits#.mp3
+http://live.medi1.com/Dj#.mp3
+http://live.medi1.com/Francaise#.mp3
+#EXTM3U
+#EXTINF:-1, Maroc | Medi1
+http://streaming08.mit.ovea.com/medi1
+#EXTINF:-1, Tunisie| Radio Nationale
+http://rtstream.tanitweb.com/nationale
+#EXTINF:-1, Tunisie|mosaïque
+https://radio.mosaiquefm.net/mosalive
+#EXTINF:-1, Belgique|Arabel
+https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:-1, Belgique|RTBF
+https://radios.rtbf.be/laprem1ere-64.aac
+#EXTINF:-1, Belgique|BelRTL192
+https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
+#EXTINF:-1, Belgique|BelRTL128
+https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3
+#EXTINF:-1, France|RFI
+https://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3
+#EXTINF:-1, France|FranceInfo
+https://icecast.radiofrance.fr/franceinfo-midfi.mp3
+#EXTINF:-1, France|RadioSalam
+https://radiosalam.ice.infomaniak.ch/radiosalam-128.mp3
+#EXTINF:-1, Coran|RadioJar
+https://stream.radiojar.com/8s5u5tpdtwzuv
+http://n05.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABd3wQQagAvYeFGV8ljk0Law
+http://n11.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABd3wPmGIAVdt9mc-
+#EXTINF:-1, Maroc | HitRadio PopRock
+https://poprock.ice.infomaniak.ch/poprock-128.mp3
+#EXTINF:-1, Maroc | HitRadio French
+https://french.ice.infomaniak.ch/french-128.mp3
+#EXTINF:-1, Maroc | HitRadio Mgharba
+https://mgharba.ice.infomaniak.ch/mgharba-128.mp3
+#EXTINF:-1, Maroc | HitRadio Latino
+https://latino.ice.infomaniak.ch/latino-128.mp3
+#EXTINF:-1, Maroc | HitRadio DanceFloor
+https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3
+#EXTINF:-1, Maroc | HitRadio Gold
+https://gold.ice.infomaniak.ch/gold-128.mp3
+#EXTINF:-1, Maroc | HitRadio RockMetal
+https://rockmetal.ice.infomaniak.ch/rockmetal-128.mp3
+#EXTINF:-1, Maroc | HitRadio Abidjan
+https://hrci.ice.infomaniak.ch/ci-abidjan-96.aac
+#EXTINF:-1, Maroc | HitRadio RnB
+https://rnb.ice.infomaniak.ch/rnb-128.mp3
+
